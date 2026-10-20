@@ -5,7 +5,9 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+#ifdef _WIN32
 #include <windows.h>
+#endif
 
 int main()
 {
