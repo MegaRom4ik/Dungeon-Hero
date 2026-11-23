@@ -1,0 +1,2 @@
+20da200542ac3582d6de30aaa54d559f430b773ef6c8116c70343710a717b65a  Dungeo-Hero-1.0.0.0-macOS-universal.zip
+ce67614b478f8615206cd01c6a601a9127d0f5511e4fa36e917e12b908f4dbbb  Dungeo-Hero-1.0.0.0-Windows-x64.zip
